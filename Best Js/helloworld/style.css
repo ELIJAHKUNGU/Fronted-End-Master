@@ -1,0 +1,57 @@
+a.navbar-brand img{
+    width:50px;
+    margin-right:5px;
+}
+
+div.themes{
+    position:absolute;
+    right:5px;
+    top:15px;
+}
+
+button.gray{
+    background-color:gray;
+    width:25px;
+    height:25px;
+}
+
+button.gold{
+    background-color:#FFD700;
+    width:25px;
+    height:25px;
+}
+
+span.vhigh,span.high, span.medium, span.low, span.vlow{
+    border-radius:5px;
+    color:white;
+    padding:5px;
+}
+
+span.vhigh{
+    background-color:black;
+}
+
+span.high{
+    background-color:brown;
+
+}
+
+span.medium{
+    color:black;
+    background-color:orange;
+}
+
+span.low{
+    background-color:yellow;
+    color:black;
+}
+
+span.vlow{
+    background-color:lightyellow;
+    color:black;
+}
+
+button.btn-heading{
+    margin:8px;
+    margin-left:0px;
+}
